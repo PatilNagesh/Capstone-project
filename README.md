@@ -1,1 +1,1 @@
-# Capstone-project
+# Capstone-project(Hotel Price Prediction)
